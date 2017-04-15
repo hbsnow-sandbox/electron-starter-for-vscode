@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "standard",
+    "standard-jsx",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "flowtype"
+  ]
+}
